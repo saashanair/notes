@@ -1,6 +1,6 @@
 # Links to videos of all conferences at ICLR2020
 
-1. amental Science in the era of AI: https://iclr2020-fsai.github.io/FSAI/
+1. Fundamental Science in the era of AI: https://iclr2020-fsai.github.io/FSAI/
 2. AI for overcoming Global Disparities in Cancer Care: https://ai4cc.org
 3. AI for Earth Sciences: https://ai4earthscience.github.io/iclr-2020-workshop/
 4. Bridging AI and Cognitive Science: https://baicsworkshop.github.io
